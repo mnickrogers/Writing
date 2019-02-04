@@ -1,4 +1,4 @@
-# Writing
+# Data Analysis
 This is a collection of my research, essays, thoughts and data analysis.
 
 ## Projects
